@@ -2,7 +2,7 @@
 
 <h1 align="center">Esse é o Exercício 1: Integração Eclipse e GitHub</h1>
 <p align="center">
-       O objetivo desse exercício, proposto pela disciplina do Trabalho Interdisciplinar II: Back-End, do Curso Ciência da Computação, é a criação de um programa em Java utilizando o ambiente de desenvolvimento Eclipse. 
+       O objetivo desse exercício, proposto pela disciplina do Trabalho Interdisciplinar II: Back-End, do Curso Ciência da Computação, PUC-MINAS, é a criação de um programa em Java utilizando o ambiente de desenvolvimento Eclipse. 
 </p>
 
 
