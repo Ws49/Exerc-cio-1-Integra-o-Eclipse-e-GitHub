@@ -39,7 +39,7 @@ class Calc extends JFrame{
 	
 	private void setConfigs() {
 		number1 = new JLabel("First Number");
-		number2 = new JLabel("Secound Number");
+		number2 = new JLabel("Second Number");
 		inputNumber1 = new JTextField(20);
 		inputNumber2 = new JTextField(20);
 		result = new JLabel("RESULT");
